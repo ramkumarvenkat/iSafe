@@ -2,6 +2,13 @@
 <resources>
 
     <string name="app_name">ISafe</string>
-    <string name="title_activity_maps">ISafe</string>
 
+    <string name="title_activity_main">ISafe</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login_using_phone_label_message">One final step to go</string>
+
+    <string name="title_activity_maps">ISafe</string>
+    <string name="panic_button_text">Help!</string>
+    <string name="action_toggle">start_stop</string>
 </resources>
